@@ -4,7 +4,7 @@ public class ComparandoArray {
 
     public static void main(String[] args) {
 
-    /*        compare():
+    /*       compare():
         primeiroArray < segundoArray => retorno negativo
         primeiroArray > segundoArray => retorno positivo
         Arrays de mesmo tamanho = retorna 0
